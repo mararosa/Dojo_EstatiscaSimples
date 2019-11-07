@@ -2,7 +2,7 @@
 
 ## Calculando estatísticas simples :exclamation:
 
-Sua tarefa é processar uma seqüência de números inteiros para determinar as seguintes estatísticas:
+Código com uma seqüência de números inteiros que determinam as seguintes estatísticas:
 - Valor mínimo
 - Valor máximo
 - Número de elementos na seqüência
